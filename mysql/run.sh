@@ -1,0 +1,1 @@
+mysql -uroot -ppass -e "source  /docker-entrypoint-initdb.d/mysql"  --default-character-set=utf8
